@@ -79,7 +79,7 @@
           <Color blue="4c" green="4c" red="4c" type="rgb"/>
         </Property>
         <Property name="horizontalAlignment" type="int" value="0"/>
-        <Property name="text" type="java.lang.String" value="SIGN UP"/>
+        <Property name="text" type="java.lang.String" value="SIGN IN"/>
       </Properties>
     </Component>
     <Component class="swing.TextField" name="textField3">
@@ -112,7 +112,7 @@
         <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="ff" green="ff" red="ff" type="rgb"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Sign Up"/>
+        <Property name="text" type="java.lang.String" value="Sign In"/>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="sansserif" size="14" style="1"/>
         </Property>

@@ -33,7 +33,7 @@ public class Login extends PanelCustom {
         jLabel1.setFont(new java.awt.Font("sansserif", 1, 20)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(76, 76, 76));
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("SIGN UP");
+        jLabel1.setText("SIGN IN");
 
         textField3.setForeground(new java.awt.Color(76, 76, 76));
         textField3.setFont(new java.awt.Font("sansserif", 0, 14)); // NOI18N
@@ -45,7 +45,7 @@ public class Login extends PanelCustom {
 
         button1.setBackground(new java.awt.Color(86, 142, 255));
         button1.setForeground(new java.awt.Color(255, 255, 255));
-        button1.setText("Sign Up");
+        button1.setText("Sign In");
         button1.setFont(new java.awt.Font("sansserif", 1, 14)); // NOI18N
         button1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
